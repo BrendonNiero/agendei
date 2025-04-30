@@ -16,7 +16,7 @@ Painel administrativo para gerenciamento de usuários e horários
 
 ## Tecnologias Utilizadas
 
-Frontend & Backend: Blazor Server (.NET 8)
+Frontend & Backend: Blazor Server
 
 Autenticação: ASP.NET Core Identity
 
@@ -26,4 +26,4 @@ Migrations: EF Core Migrations
 
 ORM: Entity Framework Core
 
-Containerização (opcional): Docker
+Containerização: Docker
